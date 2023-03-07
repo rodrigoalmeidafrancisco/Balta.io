@@ -17,3 +17,10 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 
 - CSharp_2806 => [Acesso à dados com .NET, C#, Dapper e SQL Server](https://github.com/balta-io/2806)
 	- Acesse dados de forma rápida e segura! Aprenda a se conectar ao SQL Server e executar queries de forma otimizada, performática e segura.
+
+- CSharp_2808 => [Fundamentos do Entity Framework](https://github.com/balta-io/2808)
+	- Desfrute da produtividade dos ORMs! Aprenda a extrair o melhor da performance e produtividade do Entity Framework, o ORM mais popular do mercado
+
+
+	
+
