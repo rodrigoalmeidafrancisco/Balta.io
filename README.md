@@ -15,3 +15,5 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 - CSharp_2805 => [Fundamentos do SQL Server](https://github.com/balta-io/2805)
 	- Modelagem e dados do jeito certo!	Domine os fundamentos de um dos mais populares bancos de dados do mundo, o SQL Server, amplamente utilizado em projetos .NET.
 
+- CSharp_2806 => [Acesso à dados com .NET, C#, Dapper e SQL Server](https://github.com/balta-io/2806)
+	- Acesse dados de forma rápida e segura! Aprenda a se conectar ao SQL Server e executar queries de forma otimizada, performática e segura.
