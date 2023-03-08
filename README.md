@@ -21,6 +21,12 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 - CSharp_2808 => [Fundamentos do Entity Framework](https://github.com/balta-io/2808)
 	- Desfrute da produtividade dos ORMs! Aprenda a extrair o melhor da performance e produtividade do Entity Framework, o ORM mais popular do mercado
 
+- CSharp_2811 => [Fundamentos do ASP.NET 6](https://github.com/balta-io/2811)
+	- Crie uma API completa! Um dos requisitos mais exigidos no mercado hoje é a capacidade de criar APIs, e nesta etapa vamos aproveitar os fundamentos adquiridos anteriormente para criar APIs utilizando o ASP.NET Core e EF Core.
+
+
+
+
 
 	
 
