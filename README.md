@@ -43,4 +43,6 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 - CSharp_7182 => [Refatorando para testes de unidade](https://github.com/balta-io/7182)
 	- Testes serão seu diferencial! Quer dar ainda mais vida ao seu código? Escreva testes de unidade! Nesta etapa iremos desvendar todos os mistérios sobre testes, aprender o que e como testar.
 
+- CSharp_7196 => [Todo App: API com ASP.NET Core, CQRS e EF Core](https://github.com/balta-io/7196)
+	- Solução completa! Chegou a hora de unir tudo, backend, frontend e mobile, entendendo como uma solução completa funciona. Nesta etapa vamos focar no backend de um App real, com base em tudo que aprendemos nos cursos anteriores.
 
