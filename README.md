@@ -6,6 +6,10 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 <br />
 
 # CSharp (C#)
+
+- CSharp_1974 => [Criando APIs com ASP.NET Core 2.0 e Dapper](https://github.com/balta-io/1974)
+	- Performance! Em diversos casos, apenas uma solução não basta, precisamos de mais, precisamos ir além e entender como trazer uma melhor performance e escalabilidade para nosso backend, e nesta etapa vamos conferir tudo isto.
+
 - CSharp_1975 => [Modelando Domínios Ricos](https://github.com/balta-io/1975)
 	- Seu próximo passo como desenvolvedor(a)! Sabendo os fundamentos e a criação de APIs com ASP.NET, chegou a hora de mover seu código para um próximo nível, aprendendo conceitos como SOLID e Clean Code na prática.
 
@@ -38,4 +42,5 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 	
 - CSharp_7182 => [Refatorando para testes de unidade](https://github.com/balta-io/7182)
 	- Testes serão seu diferencial! Quer dar ainda mais vida ao seu código? Escreva testes de unidade! Nesta etapa iremos desvendar todos os mistérios sobre testes, aprender o que e como testar.
+
 
