@@ -30,6 +30,9 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 - CSharp_2812 => [Fundamentos do Azure, Git, GitHub e DevOps](https://github.com/balta-io/2812)
 	- Publicação do jeito certo! Aprenda a publicar Apps, Apis e pacotes de forma automatizada utilizando Azure, Git e GitHub
 
+- CSharp_2813 => [Dominando Injeção de Dependência](https://github.com/balta-io/2813)
+	- Domine um dos principais assuntos da programação! Aprenda tudo sobre injeção de dependência, inversão de controle e DIP unindo teoria e prática.
+
 - CSharp_2818 => [Aplicando Orientação a Objetos em Projetos Reais com C# 11 e .NET 7](https://github.com/balta-io/2818)
 	- Conceitos na vida real! Chegou a hora de aplicar os conhecimentos modelando uma aplicação real, utilizando OOP
 	
