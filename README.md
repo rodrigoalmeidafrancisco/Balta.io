@@ -24,6 +24,11 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 - CSharp_2811 => [Fundamentos do ASP.NET 6](https://github.com/balta-io/2811)
 	- Crie uma API completa! Um dos requisitos mais exigidos no mercado hoje é a capacidade de criar APIs, e nesta etapa vamos aproveitar os fundamentos adquiridos anteriormente para criar APIs utilizando o ASP.NET Core e EF Core.
 
+- CSharp_2812 => [Fundamentos do Azure, Git, GitHub e DevOps](https://github.com/balta-io/2812)
+	- Publicação do jeito certo! Aprenda a publicar Apps, Apis e pacotes de forma automatizada utilizando Azure, Git e GitHub
+
+
+
 
 
 
