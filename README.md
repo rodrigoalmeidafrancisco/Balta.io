@@ -29,9 +29,10 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 
 - CSharp_2812 => [Fundamentos do Azure, Git, GitHub e DevOps](https://github.com/balta-io/2812)
 	- Publicação do jeito certo! Aprenda a publicar Apps, Apis e pacotes de forma automatizada utilizando Azure, Git e GitHub
+
+- CSharp_2818 => [Aplicando Orientação a Objetos em Projetos Reais com C# 11 e .NET 7](https://github.com/balta-io/2818)
+	- Conceitos na vida real! Chegou a hora de aplicar os conhecimentos modelando uma aplicação real, utilizando OOP
 	
 - CSharp_7182 => [Refatorando para testes de unidade](https://github.com/balta-io/7182)
 	- Testes serão seu diferencial! Quer dar ainda mais vida ao seu código? Escreva testes de unidade! Nesta etapa iremos desvendar todos os mistérios sobre testes, aprender o que e como testar.
-
-
 
