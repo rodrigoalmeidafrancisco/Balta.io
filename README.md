@@ -6,6 +6,9 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 <br />
 
 # CSharp (C#)
+- CSharp_1975 => [Modelando Domínios Ricos](https://github.com/balta-io/1975)
+	- Seu próximo passo como desenvolvedor(a)! Sabendo os fundamentos e a criação de APIs com ASP.NET, chegou a hora de mover seu código para um próximo nível, aprendendo conceitos como SOLID e Clean Code na prática.
+
 - CSharp_2801 => [Fundamentos do C#](https://github.com/balta-io/2801) 
 	- Aprenda os fundamentos! Comece da forma correta, aprendendo os fundamentos que serão necessários para que você se desenvolva sozinho e aprenda novas tecnologias no futuro.
 
@@ -26,12 +29,5 @@ Cursos realizados por mim em [Balta.io](https://balta.io/)
 
 - CSharp_2812 => [Fundamentos do Azure, Git, GitHub e DevOps](https://github.com/balta-io/2812)
 	- Publicação do jeito certo! Aprenda a publicar Apps, Apis e pacotes de forma automatizada utilizando Azure, Git e GitHub
-
-
-
-
-
-
-
 	
 
