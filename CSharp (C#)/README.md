@@ -1,5 +1,7 @@
 # CSharp (C#)
-> Sequência Carreia atualmente [03/2023]: 2801, 2802, 2805, 2806, 2808, 2811, 2812, 1975, 7182, 2818, 2813, 1974, 7196
+
+> ### Sequência Carreia atualmente [03/2023]: 2801, 2802, 2805, 2806, 2808, 2811, 2812, 1975, 7182, 2818, 2813, 1974, 7196
+
 
 - 1974 => [Criando APIs com ASP.NET Core 2.0 e Dapper](https://github.com/balta-io/1974)
 	- Performance! Em diversos casos, apenas uma solução não basta, precisamos de mais, precisamos ir além e entender como trazer uma melhor performance e escalabilidade para nosso backend, e nesta etapa vamos conferir tudo isto.
