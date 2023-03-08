@@ -1,42 +1,42 @@
 # CSharp (C#)
-> SequÍncia Carreia atualmente [03/2023]: 2801, 2802, 2805, 2806, 2808, 2811, 2812, 1975, 7182, 2818, 2813, 1974, 7196
+> Sequ√™ncia Carreia atualmente [03/2023]: 2801, 2802, 2805, 2806, 2808, 2811, 2812, 1975, 7182, 2818, 2813, 1974, 7196
 
-- CSharp_1974 => [Criando APIs com ASP.NET Core 2.0 e Dapper](https://github.com/balta-io/1974)
-	- Performance! Em diversos casos, apenas uma soluÁ„o n„o basta, precisamos de mais, precisamos ir alÈm e entender como trazer uma melhor performance e escalabilidade para nosso backend, e nesta etapa vamos conferir tudo isto.
+- 1974 => [Criando APIs com ASP.NET Core 2.0 e Dapper](https://github.com/balta-io/1974)
+	- Performance! Em diversos casos, apenas uma solu√ß√£o n√£o basta, precisamos de mais, precisamos ir al√©m e entender como trazer uma melhor performance e escalabilidade para nosso backend, e nesta etapa vamos conferir tudo isto.
 
-- CSharp_1975 => [Modelando DomÌnios Ricos](https://github.com/balta-io/1975)
-	- Seu prÛximo passo como desenvolvedor(a)! Sabendo os fundamentos e a criaÁ„o de APIs com ASP.NET, chegou a hora de mover seu cÛdigo para um prÛximo nÌvel, aprendendo conceitos como SOLID e Clean Code na pr·tica.
+- 1975 => [Modelando Dom√≠nios Ricos](https://github.com/balta-io/1975)
+	- Seu pr√≥ximo passo como desenvolvedor(a)! Sabendo os fundamentos e a cria√ß√£o de APIs com ASP.NET, chegou a hora de mover seu c√≥digo para um pr√≥ximo n√≠vel, aprendendo conceitos como SOLID e Clean Code na pr√°tica.
 
-- CSharp_2801 => [Fundamentos do C#](https://github.com/balta-io/2801) 
-	- Aprenda os fundamentos! Comece da forma correta, aprendendo os fundamentos que ser„o necess·rios para que vocÍ se desenvolva sozinho e aprenda novas tecnologias no futuro.
+- 2801 => [Fundamentos do C#](https://github.com/balta-io/2801) 
+	- Aprenda os fundamentos! Comece da forma correta, aprendendo os fundamentos que ser√£o necess√°rios para que voc√™ se desenvolva sozinho e aprenda novas tecnologias no futuro.
 
-- CSharp_2802 => [Fundamentos da OrientaÁ„o a Objetos](https://github.com/balta-io/2802)
-	- Foco no mercado, desde o comeÁo! Aprenda um dos paradigmais mais utilizados no mundo da programaÁ„o de forma direta e objetiva, utilizando C# como linguagem.
+- 2802 => [Fundamentos da Orienta√ß√£o a Objetos](https://github.com/balta-io/2802)
+	- Foco no mercado, desde o come√ßo! Aprenda um dos paradigmais mais utilizados no mundo da programa√ß√£o de forma direta e objetiva, utilizando C# como linguagem.
 
-- CSharp_2805 => [Fundamentos do SQL Server](https://github.com/balta-io/2805)
+- 2805 => [Fundamentos do SQL Server](https://github.com/balta-io/2805)
 	- Modelagem e dados do jeito certo!	Domine os fundamentos de um dos mais populares bancos de dados do mundo, o SQL Server, amplamente utilizado em projetos .NET.
 
-- CSharp_2806 => [Acesso ‡ dados com .NET, C#, Dapper e SQL Server](https://github.com/balta-io/2806)
-	- Acesse dados de forma r·pida e segura! Aprenda a se conectar ao SQL Server e executar queries de forma otimizada, perform·tica e segura.
+- 2806 => [Acesso √† dados com .NET, C#, Dapper e SQL Server](https://github.com/balta-io/2806)
+	- Acesse dados de forma r√°pida e segura! Aprenda a se conectar ao SQL Server e executar queries de forma otimizada, perform√°tica e segura.
 
-- CSharp_2808 => [Fundamentos do Entity Framework](https://github.com/balta-io/2808)
+- 2808 => [Fundamentos do Entity Framework](https://github.com/balta-io/2808)
 	- Desfrute da produtividade dos ORMs! Aprenda a extrair o melhor da performance e produtividade do Entity Framework, o ORM mais popular do mercado
 
-- CSharp_2811 => [Fundamentos do ASP.NET 6](https://github.com/balta-io/2811)
-	- Crie uma API completa! Um dos requisitos mais exigidos no mercado hoje È a capacidade de criar APIs, e nesta etapa vamos aproveitar os fundamentos adquiridos anteriormente para criar APIs utilizando o ASP.NET Core e EF Core.
+- 2811 => [Fundamentos do ASP.NET 6](https://github.com/balta-io/2811)
+	- Crie uma API completa! Um dos requisitos mais exigidos no mercado hoje √© a capacidade de criar APIs, e nesta etapa vamos aproveitar os fundamentos adquiridos anteriormente para criar APIs utilizando o ASP.NET Core e EF Core.
 
-- CSharp_2812 => [Fundamentos do Azure, Git, GitHub e DevOps](https://github.com/balta-io/2812)
-	- PublicaÁ„o do jeito certo! Aprenda a publicar Apps, Apis e pacotes de forma automatizada utilizando Azure, Git e GitHub
+- 2812 => [Fundamentos do Azure, Git, GitHub e DevOps](https://github.com/balta-io/2812)
+	- Publica√ß√£o do jeito certo! Aprenda a publicar Apps, Apis e pacotes de forma automatizada utilizando Azure, Git e GitHub
 
-- CSharp_2813 => [Dominando InjeÁ„o de DependÍncia](https://github.com/balta-io/2813)
-	- Domine um dos principais assuntos da programaÁ„o! Aprenda tudo sobre injeÁ„o de dependÍncia, invers„o de controle e DIP unindo teoria e pr·tica.
+- 2813 => [Dominando Inje√ß√£o de Depend√™ncia](https://github.com/balta-io/2813)
+	- Domine um dos principais assuntos da programa√ß√£o! Aprenda tudo sobre inje√ß√£o de depend√™ncia, invers√£o de controle e DIP unindo teoria e pr√°tica.
 
-- CSharp_2818 => [Aplicando OrientaÁ„o a Objetos em Projetos Reais com C# 11 e .NET 7](https://github.com/balta-io/2818)
-	- Conceitos na vida real! Chegou a hora de aplicar os conhecimentos modelando uma aplicaÁ„o real, utilizando OOP
+- 2818 => [Aplicando Orienta√ß√£o a Objetos em Projetos Reais com C# 11 e .NET 7](https://github.com/balta-io/2818)
+	- Conceitos na vida real! Chegou a hora de aplicar os conhecimentos modelando uma aplica√ß√£o real, utilizando OOP
 	
-- CSharp_7182 => [Refatorando para testes de unidade](https://github.com/balta-io/7182)
-	- Testes ser„o seu diferencial! Quer dar ainda mais vida ao seu cÛdigo? Escreva testes de unidade! Nesta etapa iremos desvendar todos os mistÈrios sobre testes, aprender o que e como testar.
+- 7182 => [Refatorando para testes de unidade](https://github.com/balta-io/7182)
+	- Testes ser√£o seu diferencial! Quer dar ainda mais vida ao seu c√≥digo? Escreva testes de unidade! Nesta etapa iremos desvendar todos os mist√©rios sobre testes, aprender o que e como testar.
 
-- CSharp_7196 => [Todo App: API com ASP.NET Core, CQRS e EF Core](https://github.com/balta-io/7196)
-	- SoluÁ„o completa! Chegou a hora de unir tudo, backend, frontend e mobile, entendendo como uma soluÁ„o completa funciona. Nesta etapa vamos focar no backend de um App real, com base em tudo que aprendemos nos cursos anteriores.
+- 7196 => [Todo App: API com ASP.NET Core, CQRS e EF Core](https://github.com/balta-io/7196)
+	- Solu√ß√£o completa! Chegou a hora de unir tudo, backend, frontend e mobile, entendendo como uma solu√ß√£o completa funciona. Nesta etapa vamos focar no backend de um App real, com base em tudo que aprendemos nos cursos anteriores.
 
